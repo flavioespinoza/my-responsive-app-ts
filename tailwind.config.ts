@@ -9,13 +9,12 @@ const config: Config = {
         background: 'hsl(var(--background))',
         foreground: 'hsl(var(--foreground))',
         card: 'hsl(var(--card))',
-        accent: 'hsl(var(--accent))',
         primary: 'hsl(var(--primary))',
         secondary: 'hsl(var(--secondary))',
-      }
-    }
+      },
+    },
   },
-  plugins: []
+  plugins: [],
 }
 
 export default config
