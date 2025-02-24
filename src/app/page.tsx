@@ -5,9 +5,9 @@ import { ModeToggle } from '@/components/ModeToggle'
 
 export default function Home() {
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center bg-pink-500">
+    <div className="min-h-screen flex flex-col items-center justify-center w-full bg-pink-500">
       <Header />
-      <main className="flex-grow p-4 space-y-4 w-full max-w-screen-lg">
+      <main className="flex-grow p-4 space-y-4 w-full max-w-screen-lg flex flex-col items-center">
         <ModeToggle />
         <BoxRow
           numBoxes={2}
