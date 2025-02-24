@@ -4,7 +4,7 @@ interface BoxRowProps {
   numBoxes: number
   height: number
   colors: string[]
-  labels: string[] // ✅ Add this property to the interface
+  labels: string[]
 }
 
 export default function BoxRow({ numBoxes, height, colors, labels }: BoxRowProps) {
