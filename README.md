@@ -1,4 +1,3 @@
-
 # My Responsive App (Next.js, TypeScript, Tailwind CSS)
 
 This project is a fully responsive web application built using **Next.js 14**, **TypeScript**, and **Tailwind CSS**. It features a simple layout with a header, footer, and multiple colored box sections designed for responsive behavior.
